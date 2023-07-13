@@ -1,0 +1,4 @@
+.Navrow{
+    display: flex;
+    flex-direction: row;
+}
