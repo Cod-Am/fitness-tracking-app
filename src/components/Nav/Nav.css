@@ -1,4 +1,15 @@
 .Nav{
+    color: white;
+    font-weight: bolder;
     display: flex;
-    flex-direction: row;
+    padding-top: 0.8rem;
+    padding: 1rem;
+}
+.navbar{
+    display: flex;
+    margin-left: 38%;
+}
+.gym_name{
+    padding-left: 20px;
+    font-size: x-large;
 }

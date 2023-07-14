@@ -4,11 +4,11 @@ import './Nav.css'
 const Nav = () => {
   return (
     <div className='Nav'>
-        <div>
+        <div className='gym_name'>
             The Fit Factory
         </div>
         {/* Navigation Row */}
-        <div>
+        <div className='navbar'>
             <Navrow />
         </div>
     </div>

@@ -10,7 +10,7 @@ function App() {
       {/* Banner */}
       <Banner />
       {/* Options */}
-      <Options />
+      {/* <Options /> */}
     </div>
   );
 }
