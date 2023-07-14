@@ -3,7 +3,7 @@ import './Stats.css'
 const Stats = () => {
   return (
     <div className='stats'>
-      <div className=''>
+      <div >
         <h3>200K+</h3>
         <p>Customers</p>
       </div>

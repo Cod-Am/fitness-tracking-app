@@ -21,7 +21,7 @@
 .banner_image{
     margin-left: auto;
     margin-right: auto;
-    padding-left: 9%;
+    padding-left: 14%;
 }
 .image{
     padding-bottom: 0%;
@@ -44,4 +44,16 @@
 .bg-gradient{
     background: rgb(248,251,63);
     background: radial-gradient(circle, rgba(248,251,63,0.23993347338935578) 0%, rgba(228,252,70,0) 50%);
+}
+.arrow_icon{
+    padding-top: 13rem;
+}
+.button{
+    background-color: yellow;
+    box-sizing: border-box;
+    width: 5rem;
+    height: 2rem;
+    border: 2px black solid;
+    border-radius: 10%;
+    margin-top: 0.9rem;
 }

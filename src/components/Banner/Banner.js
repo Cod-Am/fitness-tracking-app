@@ -27,15 +27,15 @@ const Banner = () => {
           <div className='quote'>
             Every day is another chance to get stronger, to eat better, to live healthier, and to be the best version of you.
           </div>
+          {/* botton */}
+          <div>
+            <button className='button'>
+              Join Now
+            </button>
+          </div>
           {/* icon */}
           <div className='arrow_icon'>
             <KeyboardDoubleArrowDownIcon fontSize='large' />
-          </div>
-          {/* botton */}
-          <div>
-            <button>
-              Join Now
-            </button>
           </div>
         </div>
 
