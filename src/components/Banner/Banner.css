@@ -4,7 +4,6 @@
 .title{
     font-family: 'Courier New', Courier, monospace;
     color: white;
-    margin-top: 2rem;
     font-weight: 900;
     -webkit-box-sizing: content-box;
     -moz-box-sizing: content-box;
@@ -17,16 +16,32 @@
     text-shadow: 0 12px 2px rgb(86, 86, 86) ;
     display: flex;
     justify-content: center;
+    
 }
 .banner_image{
     margin-left: auto;
     margin-right: auto;
+    padding-left: 9%;
 }
 .image{
     padding-bottom: 0%;
-    height: 19rem;
+    height: 25rem;
 }
 .banner_content{
     display: flex;
     margin-top: 5rem;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.right_content{
+    width: 25%;
+    text-align: end;
+}
+.quote{
+    color: grey;
+}
+.bg-gradient{
+    background: rgb(248,251,63);
+    background: radial-gradient(circle, rgba(248,251,63,0.23993347338935578) 0%, rgba(228,252,70,0) 50%);
 }

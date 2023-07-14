@@ -3,16 +3,16 @@ import './Stats.css'
 const Stats = () => {
   return (
     <div className='stats'>
-      <div>
-        <h4>200K+</h4>
+      <div className=''>
+        <h3>200K+</h3>
         <p>Customers</p>
       </div>
-      <div>
-        <h4>250+</h4>
+      <div className='padding '>
+        <h3>250+</h3>
         <p>Workers</p>
       </div>
-      <div>
-        <h4>100+</h4>
+      <div className='padding '>
+        <h3>100+</h3>
         <p>Fleets</p>
       </div>
     </div>
